@@ -38,7 +38,7 @@ class AuthorSeeder extends Seeder
         ]);
 
         Author::create([
-            'name' => 'Leila S. Chudori',
+            'name' => 'Leila S.Chudori',
             'photo' => 'leila_s_chudori.jpg',
             'bio' => 'Indonesian author and journalist known for Pulang and Laut Bercerita.'
         ]);
